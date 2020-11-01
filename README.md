@@ -11,6 +11,7 @@ These are themes I created for Alfred. You can find the theme folders [here](htt
 Enjoy!
 
 
+--
 
 ## Links
 - [Vendra](https://github.com/marlonjames71/AlfredThemes/blob/master/Vendra%20Theme/Vendra_README.md)
