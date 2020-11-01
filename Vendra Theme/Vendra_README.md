@@ -5,6 +5,6 @@ Download theme [here](https://www.dropbox.com/s/nfz99p1f6oxddex/Vendra.alfredapp
 ## Screenshots
 ---
 
-<img src="alfred_logo.png" width="400">
-<img src="alfred_logo.png" width="400">
-<img src="alfred_logo.png" width="400">
+<img src="Vendra1.png" width="400">
+<img src="Vendra2.png" width="400">
+<img src="Vendra3.png" width="400">
