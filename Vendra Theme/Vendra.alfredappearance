@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#BACAFFC4",
+        "font" : "System",
+        "color" : "#AFCCFD58"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#49AAFFFF",
+        "font" : "System",
+        "color" : "#536F8EFF"
+      },
+      "backgroundSelected" : "#191C20DB",
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#5F8BFFFF",
+        "font" : "System",
+        "color" : "#7586A4D2"
+      },
+      "iconPaddingHorizontal" : 15,
+      "paddingVertical" : 15,
+      "iconSize" : 29
+    },
+    "search" : {
+      "paddingVertical" : 6,
+      "background" : "#00000000",
+      "spacing" : 17,
+      "text" : {
+        "size" : 34,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System Light",
+        "color" : "#B9CBD4FF"
+      },
+      "backgroundSelected" : "#3F485AE4"
+    },
+    "window" : {
+      "color" : "#131516FF",
+      "paddingHorizontal" : 2,
+      "width" : 607,
+      "borderPadding" : 6,
+      "borderColor" : "#00000058",
+      "blur" : 15,
+      "roundness" : 20,
+      "paddingVertical" : 8
+    },
+    "credit" : "Marlon Raskin",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#561A72FF",
+      "thickness" : 0
+    },
+    "name" : "Vendra"
+  }
+}
