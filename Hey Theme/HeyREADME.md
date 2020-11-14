@@ -5,5 +5,5 @@ Download theme [here](https://www.icloud.com/iclouddrive/0M7ac6NRIc5jHW0mf6iMZiV
 ## Screenshots
 ---
 
-<img src="Vendra2.png">
-<img src="Vendra3.png">
+<img src="Hey Selected Text Dark.png">
+<img src="Hey Selected Text Light.png">
